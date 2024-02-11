@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "neko-demo-standard"
+name = "neko-demo-std"
 version = "0.1.0"
 description = ""
 authors = ["hhh"]
